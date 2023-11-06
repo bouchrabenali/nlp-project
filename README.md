@@ -41,9 +41,9 @@ Here are some references and resources that were used for this project:
 
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [TensorFlow Documentation](https://www.tensorflow.org/guide)
-ChatGPT was only used to help understand errors when occuring, if not understanable so I can be able to debug the code.
+- ChatGPT was only used to help understand errors when occuring, if not understanable so I can be able to debug the code.
 
 ## Progress
-This project is complete, but instead of a preprocessing pipeline in separate python script, I used a code cell in the notebook, I can add the seperate python script very soon.
+This project is complete, but instead of a preprocessing pipeline in a separate python script, I used a code cell in the notebook, I can add the seperate python script very soon.
 
 
