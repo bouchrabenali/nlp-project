@@ -37,7 +37,9 @@ To run this project on your local machine, follow these steps:
 2. Open the Jupyter notebook. You can choose to run or not as the the outputs were not cleaned and the results are available.
 
 There is a jupyter notebook with the full analysis of the project.
+
 But I have also pushed two notebooks with the part 1/2/3 and the part 4/5/6 being seperated and with the preprocessing script in a seperate python file.
+
 It's the same analysis but I pushed the separated version for more clarity. Every step is explained in the notebooks using markdowns.
 
 ## References
